@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/usr/bin/main
+/usr/bin/openvpn_exporter
